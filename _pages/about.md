@@ -11,11 +11,20 @@ I am a final year Master's student at Universität Trier, Germany, and I am curr
 
 My research interest are in Large language Model. 
 
-I am also interested for any research collaborations in academics. 
+I am also interested for any research collaborations in academics. 📊  
 
 
 
-# Experience
+# Recent Updates
 
-### Computational Linguistics Fall School 2024
-Recently I had the incredible opportunity to be part of the Computational Linguistics Fall School 2024 at Universität Passau, sponsored by DGfS-CL and GSCL. It was a fantastic experience learning from distinguished instructors like [Jakob Prange](https://jakpra.github.io/), [Carina Silberer](https://sites.google.com/view/carinasilberer/home) - Multimodal CL and Vision, [John Lawrence](https://discovery.dundee.ac.uk/en/persons/john-lawrence) - Argument Mining, and [Raphael Buchmüller](https://www.linkedin.com/in/raphael-buchm%C3%BCller-b5699b183/) - Visual Analztics for Linguistics. The event brought together passionate students from around the world, creating a vibrant and collaborative atmosphere and sharing research insights.
+### Computational Linguistics Fall School - Sept 2024
+Recently I had the incredible opportunity to be part of the Computational Linguistics Fall School 2024 at Universität Passau 🍂, sponsored by DGfS-CL and GSCL. It was a fantastic experience learning from distinguished instructors like [Jakob Prange](https://jakpra.github.io/) - Python for Linguistics, [Carina Silberer](https://sites.google.com/view/carinasilberer/home) - Multimodal CL and NLP, [John Lawrence](https://discovery.dundee.ac.uk/en/persons/john-lawrence) - Argument Mining, and [Raphael Buchmüller](https://www.linkedin.com/in/raphael-buchm%C3%BCller-b5699b183/) - Visual Analztics for Linguistics. The event brought together passionate students from around the world, creating a vibrant and collaborative atmosphere and sharing research insights.
+
+### HiWi at Universität Trier
+
+Studentische Hilfskraft - Anglistik Department, University of Trier
+
+Since August 2024 I'm working as a Student Assistant in the Anglistik Department at the University of Trier, focusing on the field of Speaker Diarization and machine speaker identification. 🎙️
+Contributing to the Mismatch Condition in Machine Speaker Identification project, where I explore ways to improve recognition accuracy in challenging acoustic conditions. 👭
+Developing machine learning models, integrating feature extraction and noise robustness techniques to enhance speaker recognition performance across diverse acoustic environments. 🔍
+
