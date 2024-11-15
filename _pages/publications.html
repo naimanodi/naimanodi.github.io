@@ -1,3 +1,4 @@
+_pages/publications.html
 ---
 layout: archive
 title: "Publications"
@@ -11,9 +12,8 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
@@ -27,10 +27,11 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+  {% if site.publications.size == 0 %}  <!-- Check if there are no publications -->
+    <p>Some research work papers are under progress, to be published soon.</p>  <!-- Display the message -->
+  {% else %}
+    {% for post in site.publications reversed %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
 {% endif %}
-
-
-
