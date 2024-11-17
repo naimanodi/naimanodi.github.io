@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Master's student at Universität Trier, Germany, and I am currently looking for internships in the field of Natural Language Processing, preferably in the area of Generative AI. 
-
-My research interest are in Large language Model. 
+I'm a  Master's student at Universität Trier, Germany, and I am currently looking for internships in the field of Natural Language Processing, preferably in the area of Generative AI. 
 
 I am also interested for any research collaborations in academics. 📊  
 
