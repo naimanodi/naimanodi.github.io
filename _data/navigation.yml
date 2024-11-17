@@ -7,7 +7,7 @@
 main:
   - title: "CV"
     #url: /cv/
-    url: /files/lebenslauf_Nodi.pdf
+    url: /files/lebenslauf.pdf
 
   #- title: "Portfolio"
   #  url: /portfolio/
