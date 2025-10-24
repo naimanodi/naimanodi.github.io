@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a  Master's student at Universität Trier, Germany, and I am currently looking for internships/werkstudent in the field of Natural Language Processing, preferably in the area of Generative AI. 
+I'm a  Master's student at Universität Trier, Germany, and I am currently looking for internships/werkstudent in the field of Natural Language Processing, preferably in the area of Semantic analysis and Generative AI. 
 
 I am also interested for any research collaborations in academics. 📊  
 
