@@ -1,12 +1,12 @@
 ---
 title: "Lecturer"
 collection: teaching
-type: "Undergraduate course"
+type: "Dept. of CSE"
 permalink: /teaching/RPSU
-venue: "Ranada Prashad Shaha University, Department of Computer Science and Engineering"
-date: 2020-01-01
+venue: "Ranada Prashad Shaha University"
+date: (2020-2023)
 location: "Narayanganj, Bangladesh"
 ---
-Developed and delivered comprehensive lectures on Machine Learning, Neural Networks, Natural Language Processing (NLP), and Intelligent Systems and understanding of advanced concepts and practical applications in the field. 🤖
-Designed and taught coursework on Object-Oriented Programming (OOP) principles using Java 💻
-Collaborated with a multidisciplinary team of faculty to revise the curriculum, leading to improved course contents and teaching methods.
+- Delivered comprehensive lectures on Object Oriented Programming, Basics of Machine Learning and Neural Networks and practical applications in the field AI. 🤖
+- Designed and taught coursework on Object-Oriented Programming principles using Java and Python. 💻
+- Collaborated with a multidisciplinary team of faculty to revise the curriculum, leading to improved course contents and teaching methods for increasing student engagement.
