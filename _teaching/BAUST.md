@@ -3,7 +3,8 @@ title: "Teaching Assistant"
 collection: teaching
 permalink: /teaching/BAUST
 venue: "Department of CSE, Bangladesh Army University of Science and Technology "
-date: "2019"
+start_date: "2019"
+end_date: "2019"
 location: "Saidpur, Bangladesh"
 ---
 - Graded and assessed assignments, quizzes, exams, and projects for 50 students, providing timely and constructive feedback to support their academic progress.
