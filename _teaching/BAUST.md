@@ -2,7 +2,8 @@
 title: "Teaching Assistant"
 collection: teaching
 permalink: /teaching/BAUST
-venue: "Department of CSE, Bangladesh Army University of Science and Technology"
+type: "Department of CSE"
+venue: "Bangladesh Army University of Science and Technology"
 date: "2019-07-07"
 location: "Saidpur, Bangladesh"
 ---
