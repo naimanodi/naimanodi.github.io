@@ -4,7 +4,7 @@ collection: teaching
 type: "Dept. of CSE"
 permalink: /teaching/RPSU
 venue: "Ranada Prashad Shaha University"
-date: 2020
+date: "2020"
 location: "Narayanganj, Bangladesh"
 ---
 - Delivered comprehensive lectures on Object Oriented Programming, Basics of Machine Learning and Neural Networks and practical applications in the field AI. 🤖
