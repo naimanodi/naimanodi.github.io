@@ -21,4 +21,4 @@ I am currently working on my Master's thesis, which focuses on refining sentimen
 
 - I am working on a custom Retrieval-Augmented Generation (RAG) pipeline to build a domain-specific chatbot for the queries regarding admission and courses related questions for the prospective students of Masters Natural Language Processing. The system uses custom chunking and embedding strategies within ChromaDB, ensuring high-precision context injection into the Qwen2.5-7B.
 
-- As part of my teaching assistant role, I am supervising a group for Research Case Studies Module(WiSe-26/27).
+- As part of my teaching assistant role, I am supervising a group for Research Case Studies Module (WiSe-26/27).
