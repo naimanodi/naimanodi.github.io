@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm pursuing my Masters degree at the Universität Trier, Germany, and currently looking for internships/workstudent opportunities in the broader field of Natural Language Processing. I am also interested for any research collaborations in academics. 📊  
+I'm pursuing my Masters degree at the Universität Trier, Germany. I am actively looking for PhD position. 📊  
 
-I specialize in approaches for data analysis, generative AI, and Semantic analysis. I am also working on building my skill on Knowledge Graph.
+I specialize in approaches for EDA, Semantic analysis, RAG, Generative AI, and LLMs. I am also working on building my skills on Dynamic Knowledge Graph and Explainable AI.
 
 
 # Recent Updates
